@@ -24,4 +24,4 @@ const applicationHTML = `
 `
 
 mainContainer.innerHTML = applicationHTML
-
+// celebrits goes 1st, 
